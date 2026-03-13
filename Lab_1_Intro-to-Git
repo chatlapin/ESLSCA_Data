@@ -1,10 +1,28 @@
+Step-by-Step Guide
+Visit the Website: Navigate to github.com.
+
+Start Signing Up: Click the Sign up button (usually in the top-right corner).
+
+Enter Your Details: Follow the prompts to enter:
+
+Email: Use an email address you have access to.
+
+Password: Create a strong, unique password.
+
+Username: Pick a unique username (this will be part of your public profile URL).
+
+Verification: GitHub will ask you to verify your email address to ensure the account is active. They may also ask you to solve a quick puzzle to confirm you are not a bot.
+
+Finalize: Complete the remaining profile prompts, and you are ready to go!
+
+
 Pair Programming exercise
 Pair yourself with a classmate. Send the link to your repository on GitHub to your pair via Slack. Now each of you should perform the following set of actions:
 
 Fork the classmate's repository.
 Clone it so you have it locally and you can make changes.
 Create a new branch named classmate.
-Create a new file with your name (ex. maya.txt) and finish the following sentence I enrolled Ironhack's Data Analytics bootcamp because.... When you are done, save the changes.
+Create a new file with your name (ex. maya.txt) and finish the following sentence I enrolled Eslsca Python because.... When you are done, save the changes.
 Add the changes to git.
 Commit and push changes. Now, all the changes should be on your GitHub inside the forked repository.
 Create a pull request to make changes appear in the original repository.
